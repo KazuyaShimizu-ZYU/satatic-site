@@ -1,1 +1,0 @@
-# satatic-site
